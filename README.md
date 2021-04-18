@@ -15,7 +15,7 @@ UI/UX Designer        : Alphian Herusalam
 
 Front-End Programmer  : Muhammad Taufiq Hidayat (A11.2018.11431)
 
-Back-End Programmer   : Muhammad Iman Nur Izza
+Back-End Programmer   : Muhammad Iman Nur Izza (A11.2018.10877)
 
 App Programmer        : Moh Nuriski Akbar (A11.2018.11426)
 
