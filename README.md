@@ -13,7 +13,7 @@ Database Designer     : Asatu Ilham Artdeko
 
 UI/UX Designer        : Alphian Herusalam
 
-Front-End Programmer  : Muhammad Taufiq Hidayat
+Front-End Programmer  : Muhammad Taufiq Hidayat (A11.2018.11431)
 
 Back-End Programmer   : Muhammad Iman Nur Izza
 
