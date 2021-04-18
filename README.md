@@ -9,7 +9,7 @@ Anggota :
 
 Project Leader        : Moh Nuriski Akbar
 
-Database Designer     : Asatu Ilham Artdeko
+Database Designer     : Asatu Ilham Artdeko(A11.2018.10863)
 
 UI/UX Designer        : Alphian Herusalam
 
