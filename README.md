@@ -17,5 +17,5 @@ Front-End Programmer  : Muhammad Taufiq Hidayat (A11.2018.11431)
 
 Back-End Programmer   : Muhammad Iman Nur Izza
 
-App Programmer        : Moh Nuriski Akbar
+App Programmer        : Moh Nuriski Akbar (A11.2018.11426)
 
