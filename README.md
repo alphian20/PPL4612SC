@@ -11,7 +11,7 @@ Project Leader        : Moh Nuriski Akbar
 
 Database Designer     : Asatu Ilham Artdeko(A11.2018.10863)
 
-UI/UX Designer        : Alphian Herusalam
+UI/UX Designer        : Alphian Herusalam (A11.2018.11448)
 
 Front-End Programmer  : Muhammad Taufiq Hidayat (A11.2018.11431)
 
