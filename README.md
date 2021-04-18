@@ -5,9 +5,14 @@ KELOMPOK 6
 Anggota :
 
 Project Leader        : Moh Nuriski Akbar
+
 Database Designer     : Asatu Ilham Artdeko
+
 UI/UX Designer        : Alphian Herusalam
+
 Front-End Programmer  : Muhammad Taufiq Hidayat
+
 Back-End Programmer   : Muhammad Iman Nur Izza
+
 App Programmer        : Moh Nuriski Akbar
 
