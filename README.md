@@ -1,12 +1,9 @@
 # PPL4612SC
-Folder project PPL kelas 4612SC
-
-Nama Tim : Tim Sehat Sukses Selalu
-
+Folder project PPL kelas 4612SC<br>
+Nama Tim : Tim Sehat Sukses Selalu<br>
 KELOMPOK 6
 
-Anggota :
-
+Anggota :<br>
 Project Leader        : Moh Nuriski Akbar
 
 Database Designer     : Asatu Ilham Artdeko(A11.2018.10863)
